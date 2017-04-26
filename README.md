@@ -1,2 +1,1 @@
-# HackerRank
-Python Challenges
+HackerRank Python Challenges Solved
